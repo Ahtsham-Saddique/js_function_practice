@@ -1,6 +1,6 @@
 
-console.log(" By using Regular function:")
-function vowels_print(strr)
+console.log(" By using Arrow function:")
+vowels_print = (strr) =>
 {
     let sum =0;
    for(let i=0;i<=strr.length;i++)
