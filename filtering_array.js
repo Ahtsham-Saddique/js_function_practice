@@ -1,6 +1,6 @@
-let arr0 =[1,34,3,653,2,"Ahtsham"]
+let arr9 =[1,34,3,653,2,"Ahtsham"]
 
-let arr1 = arr0.filter((n)=>
+let arr10 = arr9.filter((n)=>
 {
     if (n%2 ==0 )
     {
@@ -9,8 +9,8 @@ let arr1 = arr0.filter((n)=>
 
 }
 );
-console.log(arr1);
-arr1.forEach((n)=>
+console.log(arr10);
+arr10.forEach((n)=>
 {
     console.log(n);
 });
